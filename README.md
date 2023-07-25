@@ -7,6 +7,11 @@ GAN Architecture invloves the use of two neural networks. A discriminator networ
 network which guven the feedback from the discriminator network learns to generate a more and more realistic image. Hence these two networks play a 
 game of maximising each others loss functions while minimising their own loss functions. This creates a back and forth minmax loss.
 
+Diagram of GANs architecture:
+
+![image](https://github.com/mqasim41/GAN_Anime_Face_Generator/assets/114048264/e5fc5196-7d2a-4b24-90aa-dea9c2db2fb4)
+
+
 Real Images:
 
 ![image](https://github.com/mqasim41/GAN_Anime_Face_Generator/assets/114048264/a0d58a19-4f27-457b-9ddd-51a6519914b5)
