@@ -4,7 +4,7 @@ Creating Anime Faces using GANS
 Given the https://www.kaggle.com/splcher/animefacedataset dataset. I have created a DCGAN network to generate images of the faces of anime characters.
 
 GAN Architecture invloves the use of two neural networks. A discriminator network which tells apart AI generated images from real images and a generator 
-network which guven the feedback from the discriminator network learns to generate a more and more realistic image. Hence these two networks play a 
+network which given the feedback from the discriminator network learns to generate a more and more realistic image. Hence these two networks play a 
 game of maximising each others loss functions while minimising their own loss functions. This creates a back and forth minmax loss.
 
 Diagram of GANs architecture:
